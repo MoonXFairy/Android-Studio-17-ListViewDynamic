@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_num_17_ListViewDynamic</string>
+    <string name="Hw_title">listView 動態載入</string>
+    <string name="Hw_p.s">請滑動顯示</string>
+    <string-array name="cities">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>
